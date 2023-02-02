@@ -1,0 +1,22 @@
+{
+  "name": "epamstageone",
+  "version": "1.0.0",
+  "description": "epamStage1",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkn96/epamStageOne.git"
+  },
+  "author": "mkn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkn96/epamStageOne/issues"
+  },
+  "homepage": "https://github.com/mkn96/epamStageOne#readme",
+  "devDependencies": {
+    "fs-extra": "^11.1.0"
+  }
+}
